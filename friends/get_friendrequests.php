@@ -3,7 +3,7 @@
 require_once "api.php";
 
 //method of VK API
-$method = "users.getFollowers";
+$method = "friends.getRequests";
 
 //Set count to max allowed and than we need ingoing friend requests
 $params = "count=1000&out=0";

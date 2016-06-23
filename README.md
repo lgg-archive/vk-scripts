@@ -22,7 +22,9 @@
             * `get_followers.php` && run `add_followers.php` and so on again...
         * delete all followers(convert them to subscribers)
             * get followers, rename `followers.txt` to `ifollow.txt` and run `delete.php`
-
+    * Friend requests(from others to you)
+        * add all of them:
+            * `get_friendrequests.php` && run `add_followers.php` and so on again...
 
 ## Performance
 
