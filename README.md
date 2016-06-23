@@ -56,7 +56,7 @@ There are hidden limits of using VK api methods in 1 day, so just try again tomo
 * add get_dogs(deleted or bans users)
 * add instruction for deleting "dogs" users
 * rewrite using OOP and php-cli style
-* automate gettiing all users
+* automate getting all users
 
 ## License
 
