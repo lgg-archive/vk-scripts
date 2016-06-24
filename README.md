@@ -25,6 +25,9 @@
     * Friend requests(from others to you)
         * add all of them:
             * `get_friendrequests.php` && run `add_followers.php` and so on again...
+    * Remove followers
+        * if you want to remove follower/s you need to ban them for some time(1-3 days)
+        * * `get_followers.php` && run `ban_followers.php`
 
 ## Performance
 
